@@ -1,9 +1,10 @@
-# Microservices-Parameters-API (Use case internal Microservice i.e. No publically exposed endpoints)
+# Microservices-Parameters-API
 1. Secure storage for parameters and secrets
 2. Seamless encryption
 3. Version tracking (git)
 4. Configuration management
 5. Log trail
+6. Use case internal Microservice
 
 ## API model
 - get-parameters --names <name1> <name2> 
