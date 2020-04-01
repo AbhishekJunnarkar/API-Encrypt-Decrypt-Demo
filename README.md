@@ -1,4 +1,4 @@
-# API-Encrypt-Decrypt-Demo
+# Microservices-Parameters-API (Use case internal Microservice i.e. No publically exposed endpoints)
 1. Secure storage for parameters and secrets
 2. Seamless encryption
 3. Version tracking (git)
